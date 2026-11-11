@@ -1,0 +1,14 @@
+Local verification performed on a Linux environment:
+
+Normal unprotected run:
+You entered: hello
+Program completed normally.
+
+Unprotected oversized-input run:
+Segmentation fault (exit status 139)
+
+Protected oversized-input run:
+*** stack smashing detected ***: terminated
+Aborted (exit status 134)
+
+Note: GDB was not available in the execution environment used to prepare this package, so no GDB output has been fabricated. Run the GDB commands in README.md on your Linux machine and insert those screenshots into report.md.

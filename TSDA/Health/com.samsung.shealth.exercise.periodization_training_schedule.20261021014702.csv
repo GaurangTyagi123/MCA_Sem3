@@ -1,0 +1,3 @@
+﻿com.samsung.shealth.exercise.periodization_training_schedule,7006011,1
+create_sh_ver,start_time,coach_id,status,schedule,modify_sh_ver,update_time,create_time,type,time_offset,deviceuuid,pkg_name,program_uuid,datauuid
+63070030,2026-02-27 06:04:20.818,mm4hlvwy_24g,1,6eeacf55-1856-403c-a39c-4c3006a507e0.schedule.json,63070030,2026-02-27 06:04:20.947,2026-02-27 06:04:20.947,1,UTC+0530,1eYjkPC1L8,com.sec.android.app.shealth,072abed1-493a-422c-9459-9ad689d5e04b,6eeacf55-1856-403c-a39c-4c3006a507e0,

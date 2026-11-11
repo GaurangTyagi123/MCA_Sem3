@@ -1,0 +1,4 @@
+﻿com.samsung.shealth.badge,7006011,1
+number_of_streak,start_time,exercise_type,device_type,status,sleep_coaching_session_uuid,update_time,create_time,source_pkg_name,key,program_id,is_shown,time_offset,extra_data,deviceuuid,pkg_name,exercise_data_uuid,controller_id,end_time,datauuid
+,2026-02-27 18:30:00.000,,10009,1,,2026-02-28 15:03:48.057,2026-02-28 15:03:48.057,com.sec.android.app.shealth,step_milestone_10k_steps,,,UTC+0530,8247.545166015625,1eYjkPC1L8,com.sec.android.app.shealth,,tracker.pedometer,2026-02-28 18:29:59.999,ba295c2b-e5af-4d37-949d-4ae7247f7707,
+0,2026-10-01 00:00:00.000,,,0,,2026-10-20 19:31:30.471,2026-09-30 18:30:01.947,,daily_activity_month_streak_oct,,,UTC+0000,{"a":false},1eYjkPC1L8,com.sec.android.app.shealth,,tracker.daily_activity,2026-10-21 00:00:00.000,45e5596a-7f2b-4589-a1a6-0a7d0648bef7,
