@@ -1,0 +1,2 @@
+This is the original file. Its contents have not been changed.
+This line was added after the original hash was recorded.
